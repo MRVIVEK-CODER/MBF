@@ -4,10 +4,10 @@ Multi Brute Force
     💀MBF💀
 </h1>
 <h4 align="center">
-  🇮🇩TRICKER INDONESIA🇮🇩
+  🇳🇪TRICKER INDIA🇳🇪
 </h4>
 <p align="center">
-<a href="#"><img title="Author by Hacker" src="https://img.shields.io/badge/Coded%20By-YayanXD-green?"></a>
+<a href="#"><img title="Author by Hacker" src="https://img.shields.io/badge/Coded%20By-VivekXD-green?"></a>
 <a href="#"><img title="Author by Hacker" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 <br>
 <a href="https://github.com/Yayan-XD/followers">
@@ -45,7 +45,7 @@ pip2 install --upgrade pip
 ```
 ### And MBF this script
 ```
-git clone https://github.com/Yayan-XD/MBF
+git clone https://github.com/MRVIVEK-CODER/MBF
 cd MBF
 bash setup.sh
 ```
@@ -60,9 +60,9 @@ bash setup.sh
 ```
 
 ## MY SOCIAL MEDIA
-[![Github](https://img.shields.io/badge/Github-Ikuti-dark?style=for-the-badge&logo=github)](https://github.com/Yayan-XD)
-[![Twitter](https://img.shields.io/badge/twitter-Ikuti-dark?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/moch_xd)
-[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/YAYAN.XING.ZUCKERBERG.SR)
-[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-dark?style=for-the-badge&logo=instagram)](https://Instagram.com/yayanxd_)
-* Jika ada yang kurang paham hubungi WhatsApp👇
-[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285603036683&text&app_absent=0)
+[![Github](https://img.shields.io/badge/Github-Ikuti-dark?style=for-the-badge&logo=github)](https://github.com/MRVIVEK-CODER)
+[![Twitter](https://img.shields.io/badge/twitter-Ikuti-dark?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/Vivek_Chandel)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/Vivek.chandel.420)
+[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-dark?style=for-the-badge&logo=instagram)](https://Instagram.com/hacker_solution_by_vivek)
+* If someone doesn't understand, contact WhatsApp👇
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B17087220306&text&app_absent=0)
