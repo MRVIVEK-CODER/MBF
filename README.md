@@ -50,7 +50,7 @@ cd MBF
 bash setup.sh
 ```
 ### Fitures
-<img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
+<img src="https://github.com/MRVIVEK-CODER/MBF/blob/main/Screenshot_20210516-003338.jpg" />
 
 ```
 - Multi acc login
