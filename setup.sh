@@ -38,4 +38,4 @@ pip2 install mechanize
 clear
 pip2 install requests
 clear
-python2 mbf1.py
+python2 mbf.py
